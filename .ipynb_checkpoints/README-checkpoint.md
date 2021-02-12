@@ -16,7 +16,7 @@ All of the models predicted for the smaller class **customers** that number 1:3 
 ### Files
 
 - Database-Build
-    - Python Notebook: Walk through of the files uploaded from Citibike's database that were uploaded to a local SQL database. Used SQL to filter data into one dataset for cleaning and preprocessing. 
+    - Python Notebook: Walk through of the files uploaded from Citibike's database that were uploaded to a local SQL database. Use SQL to filter data into one dataset for cleaning and preprocessing. 
     
 - Logistic Regression
     - Python Notebook: Logistic Regression scores 
