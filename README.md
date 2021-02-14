@@ -19,13 +19,13 @@ All of the models predicted for the smaller class **customers** that number 1:3 
     - Python Notebook: Walk through of the files uploaded from Citibike's database that were uploaded to a local SQL database. Used SQL to filter data into one dataset for cleaning and preprocessing. 
     
 - Logistic Regression
-    - Python Notebook: Logistic Regression scores 
+    - Python Notebook: Logistic RegressionCV used. Ruled out as potential model for project
     
 - Naive Bayes
-    - Python Notebook:
+    - Python Notebook: 
     
 - Random Forest
     - Python Notebook:
     
 - XGBoost
-    - Python Notebook:
+    - Python Notebook: Warning Errors and delayed installation prevented the model from being used further. Insufficient time to tune hyperparameters to get the model to perform optimally. 
